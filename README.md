@@ -1,2 +1,5 @@
 # useraccounts
-User Registration Form with PHP and MySQL Tutorial code
+Complete website 
+Created all web pages with PHP
+Xammp Database
+Database name-useraccountnew
